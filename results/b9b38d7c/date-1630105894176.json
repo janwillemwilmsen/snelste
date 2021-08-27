@@ -1,0 +1,52 @@
+{
+  "url": "https://www.psg.fr/",
+  "requestedUrl": "https://psg.fr/",
+  "timestamp": 1630106536465,
+  "ranks": {
+    "hundos": 2,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.3.0",
+    "performance": 0.27,
+    "accessibility": 0.8,
+    "bestPractices": 0.73,
+    "seo": 0.84,
+    "total": 264
+  },
+  "firstContentfulPaint": 4360.9255,
+  "firstMeaningfulPaint": 4371.4255,
+  "speedIndex": 11983.378389883974,
+  "largestContentfulPaint": 18937.532499999994,
+  "totalBlockingTime": 935,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 18290.71749999999,
+  "maxPotentialFirstInputDelay": 603,
+  "timeToFirstByte": 1375.6200000000001,
+  "weight": {
+    "summary": "83 requests • 3,095 KiB",
+    "total": 3168781,
+    "image": 1611109,
+    "imageCount": 40,
+    "script": 1143568,
+    "scriptCount": 22,
+    "document": 169295,
+    "font": 79806,
+    "fontCount": 3,
+    "stylesheet": 152021,
+    "stylesheetCount": 1,
+    "thirdParty": 1774649,
+    "thirdPartyCount": 62
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1800,
+    "violations": 49
+  },
+  "name": "PSG"
+}
