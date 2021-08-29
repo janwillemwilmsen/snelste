@@ -1,0 +1,52 @@
+{
+  "url": "https://www.airbus.com/investors/contact-us.html",
+  "requestedUrl": "https://www.airbus.com/investors/contact-us.html",
+  "timestamp": 1630278770076,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.3.0",
+    "performance": 0.16,
+    "accessibility": 0.82,
+    "bestPractices": 0.53,
+    "seo": 0.82,
+    "total": 233
+  },
+  "firstContentfulPaint": 4594.2119999999995,
+  "firstMeaningfulPaint": 7866.322499999998,
+  "speedIndex": 14447.70144040858,
+  "largestContentfulPaint": 23373.631499999996,
+  "totalBlockingTime": 4174.499999999996,
+  "cumulativeLayoutShift": 0.08166971842447916,
+  "timeToInteractive": 25522.365499999993,
+  "maxPotentialFirstInputDelay": 893,
+  "timeToFirstByte": 792.834,
+  "weight": {
+    "summary": "215 requests • 3,260 KiB",
+    "total": 3338557,
+    "image": 853345,
+    "imageCount": 47,
+    "script": 1568089,
+    "scriptCount": 68,
+    "document": 66678,
+    "font": 84214,
+    "fontCount": 6,
+    "stylesheet": 704209,
+    "stylesheetCount": 26,
+    "thirdParty": 1698147,
+    "thirdPartyCount": 145
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 912,
+    "violations": 68
+  },
+  "name": "Investors"
+}
