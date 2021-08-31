@@ -1,0 +1,52 @@
+{
+  "url": "https://boeing.mediaroom.com/index.php",
+  "requestedUrl": "https://www.boeing.com/contact-us.page",
+  "timestamp": 1630451747597,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.3.0",
+    "performance": 0.4,
+    "accessibility": 0.7,
+    "bestPractices": 0.6,
+    "seo": 0.67,
+    "total": 237
+  },
+  "firstContentfulPaint": 4001.2899999999995,
+  "firstMeaningfulPaint": 5538.26,
+  "speedIndex": 6494.776556751427,
+  "largestContentfulPaint": 10263.988999999998,
+  "totalBlockingTime": 324.4859999999999,
+  "cumulativeLayoutShift": 0.24622672186957462,
+  "timeToInteractive": 9047.6735,
+  "maxPotentialFirstInputDelay": 187,
+  "timeToFirstByte": 333.499,
+  "weight": {
+    "summary": "203 requests • 1,670 KiB",
+    "total": 1710587,
+    "image": 919947,
+    "imageCount": 125,
+    "script": 391516,
+    "scriptCount": 40,
+    "document": 41847,
+    "font": 303562,
+    "fontCount": 6,
+    "stylesheet": 48551,
+    "stylesheetCount": 5,
+    "thirdParty": 117882,
+    "thirdPartyCount": 20
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1056,
+    "violations": 48
+  },
+  "name": "Contact us"
+}
