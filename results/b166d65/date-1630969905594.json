@@ -1,0 +1,51 @@
+{
+  "url": "https://www.boeing.com/",
+  "requestedUrl": "https://www.boeing.com/",
+  "timestamp": 1630970111578,
+  "ranks": {
+    "hundos": 1,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.3.0",
+    "performance": 0.4,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "seo": 0.8,
+    "total": 284
+  },
+  "firstContentfulPaint": 3507.2219999999998,
+  "firstMeaningfulPaint": 5195.199,
+  "speedIndex": 9404.86138174605,
+  "largestContentfulPaint": 22211.201,
+  "totalBlockingTime": 411.0000000000009,
+  "cumulativeLayoutShift": 0.0696337890625,
+  "timeToInteractive": 14780.392999999998,
+  "maxPotentialFirstInputDelay": 126,
+  "timeToFirstByte": 111.328,
+  "weight": {
+    "summary": "92 requests • 3,666 KiB",
+    "total": 3754115,
+    "image": 2150654,
+    "imageCount": 16,
+    "script": 1119707,
+    "scriptCount": 52,
+    "document": 80796,
+    "font": 184916,
+    "fontCount": 4,
+    "stylesheet": 181659,
+    "stylesheetCount": 5,
+    "thirdParty": 650461,
+    "thirdPartyCount": 35
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 829,
+    "violations": 27
+  }
+}
