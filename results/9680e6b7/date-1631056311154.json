@@ -1,0 +1,52 @@
+{
+  "url": "https://www.fcbarcelona.com/en/",
+  "requestedUrl": "https://fcbarcelona.com/",
+  "timestamp": 1631056927248,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.3.0",
+    "performance": 0.17,
+    "accessibility": 0.75,
+    "bestPractices": 0.8,
+    "seo": 0.97,
+    "total": 269
+  },
+  "firstContentfulPaint": 4839.503,
+  "firstMeaningfulPaint": 4839.503,
+  "speedIndex": 11115.210113601524,
+  "largestContentfulPaint": 18940.598000000005,
+  "totalBlockingTime": 5731.131000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 25946.490000000005,
+  "maxPotentialFirstInputDelay": 1600.0000000000018,
+  "timeToFirstByte": 34.453,
+  "weight": {
+    "summary": "139 requests • 4,203 KiB",
+    "total": 4303941,
+    "image": 1879418,
+    "imageCount": 33,
+    "script": 1530615,
+    "scriptCount": 52,
+    "document": 66420,
+    "font": 205306,
+    "fontCount": 5,
+    "stylesheet": 208254,
+    "stylesheetCount": 3,
+    "thirdParty": 1418680,
+    "thirdPartyCount": 94
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 3091,
+    "violations": 111
+  },
+  "name": "fcb.com"
+}
