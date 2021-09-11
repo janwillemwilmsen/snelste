@@ -1,0 +1,52 @@
+{
+  "url": "https://www.fcbarcelona.com/en/football/first-team/news",
+  "requestedUrl": "https://www.fcbarcelona.com/en/football/first-team/news",
+  "timestamp": 1631402397825,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.4.0",
+    "performance": 0.32,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.96,
+    "total": 296
+  },
+  "firstContentfulPaint": 2422.6890000000003,
+  "firstMeaningfulPaint": 2422.6890000000003,
+  "speedIndex": 5912.804396302601,
+  "largestContentfulPaint": 5754.192999999998,
+  "totalBlockingTime": 2979.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15421.465000000002,
+  "maxPotentialFirstInputDelay": 855,
+  "timeToFirstByte": 28.633999999999997,
+  "weight": {
+    "summary": "102 requests • 1,792 KiB",
+    "total": 1834982,
+    "image": 238537,
+    "imageCount": 22,
+    "script": 799637,
+    "scriptCount": 39,
+    "document": 38507,
+    "font": 205302,
+    "fontCount": 5,
+    "stylesheet": 158550,
+    "stylesheetCount": 1,
+    "thirdParty": 647350,
+    "thirdPartyCount": 72
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1986,
+    "violations": 45
+  },
+  "name": "Team news"
+}
