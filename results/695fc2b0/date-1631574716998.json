@@ -1,0 +1,52 @@
+{
+  "url": "https://billetterie.psg.fr/fr/?utm_source=Site_PSG_Home_Navigation&utm_medium=Site_PSG_Home_Navigation&utm_campaign=Site_PSG_Billetterie",
+  "requestedUrl": "https://www.psg.fr/billetterie",
+  "timestamp": 1631575219070,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.4.0",
+    "performance": 0.23,
+    "accessibility": 0.5,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 244
+  },
+  "firstContentfulPaint": 4604.996,
+  "firstMeaningfulPaint": 4604.996,
+  "speedIndex": 7768.231841963765,
+  "largestContentfulPaint": 14077.450999999997,
+  "totalBlockingTime": 1548,
+  "cumulativeLayoutShift": 0.058925781249999996,
+  "timeToInteractive": 15406.065999999993,
+  "maxPotentialFirstInputDelay": 450,
+  "timeToFirstByte": 240.39699999999993,
+  "weight": {
+    "summary": "55 requests • 2,913 KiB",
+    "total": 2982818,
+    "image": 2074934,
+    "imageCount": 34,
+    "script": 621312,
+    "scriptCount": 4,
+    "document": 52188,
+    "font": 80415,
+    "fontCount": 4,
+    "stylesheet": 133959,
+    "stylesheetCount": 2,
+    "thirdParty": 150480,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1020,
+    "violations": 141
+  },
+  "name": "PSG Tickets"
+}
