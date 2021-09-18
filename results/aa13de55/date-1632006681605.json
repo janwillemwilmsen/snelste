@@ -1,0 +1,51 @@
+{
+  "url": "https://experience.psg.fr/",
+  "requestedUrl": "https://experience.psg.fr/",
+  "timestamp": 1632007143700,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.4.0",
+    "performance": 0.34,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "seo": 0.98,
+    "total": 286
+  },
+  "firstContentfulPaint": 2998.863,
+  "firstMeaningfulPaint": 3458.9129999999996,
+  "speedIndex": 7125.120653540571,
+  "largestContentfulPaint": 6471.563,
+  "totalBlockingTime": 957.5,
+  "cumulativeLayoutShift": 0.009394614961412218,
+  "timeToInteractive": 18477.838000000003,
+  "maxPotentialFirstInputDelay": 453,
+  "timeToFirstByte": 18.483,
+  "weight": {
+    "summary": "81 requests • 2,634 KiB",
+    "total": 2697308,
+    "image": 593342,
+    "imageCount": 24,
+    "script": 1670905,
+    "scriptCount": 34,
+    "document": 159034,
+    "font": 108950,
+    "fontCount": 4,
+    "stylesheet": 152007,
+    "stylesheetCount": 1,
+    "thirdParty": 1634293,
+    "thirdPartyCount": 68
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1058,
+    "violations": 54
+  }
+}
