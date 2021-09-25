@@ -1,0 +1,52 @@
+{
+  "url": "https://www.airbus.com/space.html",
+  "requestedUrl": "https://www.airbus.com/space.html",
+  "timestamp": 1632611539341,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.5.1",
+    "performance": 0.15,
+    "accessibility": 0.82,
+    "bestPractices": 0.53,
+    "seo": 0.77,
+    "total": 227
+  },
+  "firstContentfulPaint": 4721.907,
+  "firstMeaningfulPaint": 5126.8910000000005,
+  "speedIndex": 22822.0241262288,
+  "largestContentfulPaint": 7578.732000000001,
+  "totalBlockingTime": 5914.999999999998,
+  "cumulativeLayoutShift": 0.1242919921875,
+  "timeToInteractive": 31839.16799999999,
+  "maxPotentialFirstInputDelay": 2261.000000000002,
+  "timeToFirstByte": 34.01099999999997,
+  "weight": {
+    "summary": "326 requests • 6,108 KiB",
+    "total": 6254370,
+    "image": 3314097,
+    "imageCount": 129,
+    "script": 1851664,
+    "scriptCount": 76,
+    "document": 76735,
+    "font": 177683,
+    "fontCount": 7,
+    "stylesheet": 763881,
+    "stylesheetCount": 30,
+    "thirdParty": 4553244,
+    "thirdPartyCount": 255
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1363,
+    "violations": 86
+  },
+  "name": "Airbus Space Unit"
+}
